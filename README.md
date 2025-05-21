@@ -60,5 +60,5 @@ for i in range(n):
 ![image](https://github.com/user-attachments/assets/e8e7e1d9-c60f-46ad-bde3-a0cc80ae27f1)
 
 ## Result:
-Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
+Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming. 
 
